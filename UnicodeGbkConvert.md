@@ -1,5 +1,12 @@
+	
+		
+	/**
+	 * 
+	 * @author norwaya	
+ *
+	 */
 	public class Demo01 {
-
+	
 		public static void main(String[] args) {
 			String text = "\\u5f00\\u59cb\\u4efb\\u52a1";
 			String u2g = Demo01.unicodeToGbk(text);
