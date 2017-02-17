@@ -1,9 +1,7 @@
-	
-		
 	/**
 	 * 
 	 * @author norwaya	
- *
+ 	 *
 	 */
 	public class Demo01 {
 	
